@@ -1,0 +1,9 @@
+C:\Users\annet\source\repos\graphics.2.0\graphics\bin\Debug\graphics.exe.config
+C:\Users\annet\source\repos\graphics.2.0\graphics\bin\Debug\graphics.exe
+C:\Users\annet\source\repos\graphics.2.0\graphics\bin\Debug\graphics.pdb
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.csprojAssemblyReference.cache
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.MainForm.resources
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.Properties.Resources.resources
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.exe
+C:\Users\annet\source\repos\graphics.2.0\graphics\obj\Debug\graphics.pdb
